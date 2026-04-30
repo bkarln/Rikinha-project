@@ -1,0 +1,1 @@
+import{j as e,L as t}from"./index-C8cMqcXb.js";const r=({error:o})=>e.jsxs("div",{className:"container mx-auto px-6 py-20 text-center",children:[e.jsx("p",{className:"text-muted-foreground",children:o.message}),e.jsx(t,{to:"/blog",className:"text-navy underline mt-4 inline-block",children:"Voltar ao blog"})]});export{r as errorComponent};
